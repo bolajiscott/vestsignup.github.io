@@ -1,0 +1,50 @@
+body{
+    background-color: #ADD8E6;
+    
+}
+h6{
+    line-height: 0.1;
+    color: #4a5568;
+    
+}
+
+h2{
+    color: blue;
+}
+.container{
+    margin-left:700px;
+    background-color: white;
+    width: 400px;
+    border-radius: 20px;
+
+}
+#fname{
+    height: 50px;
+    width: 350px;
+    word-spacing: 2px;
+    overflow:auto;
+    
+}
+.big{
+    margin-left: 100px;
+}
+
+#c{
+    padding-left: 20px;
+}
+.big{
+    width: 300px;
+    height: 50px;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color:rgb(6, 43, 111);
+    
+}
+h4{
+    color: white;
+}
+#x{
+    margin-left: 800px;
+    color: white;
+}
